@@ -1,0 +1,12 @@
+# OS / editor / tool cruft (shared snippet, Eagle Eye audit 2026-10-18)
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.asv
+~$*
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp
+.playwright-mcp/
+.venv/
